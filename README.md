@@ -18,11 +18,11 @@ This project utilizes OpenCV, MediaPipe, and PyAutoGUI to control the mouse curs
 ## Installation
 
 1. **Clone the repository:**
-   ``` bash
+   ``` 
    git clone https://github.com/deependraxx/DristiTracking.git
    cd DristiTrack
 3. **Install the required packages:**
-   
+   ```
    pip install opencv-python mediapipe pyautogui
 
 ## Usage
@@ -31,13 +31,13 @@ This project utilizes OpenCV, MediaPipe, and PyAutoGUI to control the mouse curs
      python main.py
    
 
-2. **Instructions:**
+3. **Instructions:**
    - Ensure your webcam is connected and properly configured.
    - The application will start capturing video from your webcam.
    - The mouse cursor will move based on your eye position.
    - Blink to perform a mouse click.
 
-3. **Exit:**
+4. **Exit:**
    - Press `q` to quit the application.
 
 ## Contribution
