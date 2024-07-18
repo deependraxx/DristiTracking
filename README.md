@@ -18,11 +18,10 @@ This project utilizes OpenCV, MediaPipe, and PyAutoGUI to control the mouse curs
 ## Installation
 
 1. **Clone the repository:**
-
+   ``` bash
    git clone https://github.com/deependraxx/DristiTracking.git
    cd DristiTrack
-
-2. **Install the required packages:**
+3. **Install the required packages:**
    
    pip install opencv-python mediapipe pyautogui
 
