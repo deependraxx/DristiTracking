@@ -23,8 +23,8 @@ This project utilizes OpenCV, MediaPipe, and PyAutoGUI to control the mouse curs
    cd DristiTrack
 3. **Install the required packages:**
    ```
-   pip install opencv-python mediapipe pyautogui
-
+   pip install opencv
+   -python mediapipe pyautogui
 ## Usage
 
 1. **Run the script:**
