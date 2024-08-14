@@ -16,7 +16,7 @@ DristiTrack is an innovative eye-tracking system developed using OpenCV and Pyth
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/dristitrack.git
+   git clone https://github.com/deependraxx/dristitrack.git
    cd dristitrack
    ```
 
